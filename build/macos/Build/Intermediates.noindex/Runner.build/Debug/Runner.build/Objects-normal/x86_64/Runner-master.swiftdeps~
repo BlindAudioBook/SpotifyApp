@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "87eb2b9e25d23458ef92dd7b2f4f68086d1550c67e8964cb40cd36c2a30232c3"
+build_start_time: [1680018828, 942060947]
+build_end_time: [1680018829, 915050]
+inputs:
+  "/Users/lovishbains/StudioProjects/SpotifyApp/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1680018805, 241972446]
+  "/Users/lovishbains/StudioProjects/SpotifyApp/macos/Runner/AppDelegate.swift": !private [1679506245, 0]
+  "/Users/lovishbains/StudioProjects/SpotifyApp/macos/Runner/MainFlutterWindow.swift": !private [1679506245, 0]
